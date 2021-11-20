@@ -4,8 +4,9 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-
-    <meta property="og:image" content="http://www.latiksha.online/images/img_bg_2.jpg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <meta property="og:image" content="http://www.sourabhwedssiddhi.in.net/images/img_bg_2.jpeg" />
     <meta property="og:title" content="Sourabh Weds Siddhi" />
     <meta property="og:description" content="We are getting married on 26th December, 2021" />
 	
@@ -65,7 +66,6 @@
                                 <h1>Siddhi</h1>
                                 <h2>We Are Getting Married</h2>
                                 <div class="simply-countdown simply-countdown-one"></div>
-                                <p><a href="#" class="btn btn-default btn-sm">Scroll Down</a></p>
                             </div>
                         </div>
                     </div>
@@ -80,7 +80,7 @@
                         <h2>Hello!</h2>
                         <h3>December 26th, 2021 Kolhapur, Maharashtra</h3>
                         <p>We invite you and your family to celebrate our wedding at</p>
-                        <p>Jay Palace, Kalamba Road, Kolhapur</p>
+                        <p>Jay Palace, Kalamba Road, Kolhapur <a href="https://goo.gl/maps/LyqdGoL28WwcoG67A" target="_blank"><i class="material-icons" style="font-size: 18px;line-height: 1.5;color: #828282;">pin_drop</i></a></p>
                     </div>
                 </div>
                 <div class="couple-wrap animate-box">
@@ -109,7 +109,7 @@
             </div>
         </div>
 
-        <div id="fh5co-event" class="fh5co-bg" style="background-image:url(images/img_bg_4.jpg);">
+        <div id="fh5co-event" class="fh5co-bg" style="background-image:url(images/img_bg_4.JPG);">
             <div class="overlay"></div>
             <div class="container">
                 <div class="row">
@@ -138,7 +138,7 @@
                                 </div>
                                 <div class="col-md-4 col-sm-4 text-center" style="padding-bottom: 3%;">
                                     <div class="event-wrap animate-box">
-                                        <h3>सीमांत पूजन</h3>
+                                        <h3>साखरपुडा</h3>
                                         <div class="event-col">
                                             <i class="icon-clock"></i>
                                             <span>6:00 PM</span>
@@ -153,7 +153,7 @@
                                 </div>
                                 <div class="col-md-4 col-sm-4 text-center" style="padding-bottom: 3%;">
                                     <div class="event-wrap animate-box">
-                                        <h3>साखरपुडा</h3>
+                                        <h3>सीमांत पूजन</h3>
                                         <div class="event-col">
                                             <i class="icon-clock"></i>
                                             <span>7:00 PM</span>
