@@ -79,14 +79,14 @@
                     <div class="col-md-8 col-md-offset-2 text-center fh5co-heading animate-box">
                         <h2>Hello!</h2>
                         <h3>December 26th, 2021 Kolhapur, Maharashtra</h3>
-                        <p>We invite you to celebrate our wedding at</p>
+                        <p>We invite you and your family to celebrate our wedding at</p>
                         <p>Jay Palace, Kalamba Road, Kolhapur</p>
                     </div>
                 </div>
                 <div class="couple-wrap animate-box">
                     <div class="couple-half">
                         <div class="groom">
-                            <img src="images/Sourabh.jpg" alt="groom" class="img-responsive">
+                            <img src="images/Sourabh.JPG" alt="groom" class="img-responsive">
                         </div>
                         <div class="desc-groom">
                             <h3><a href="https://www.instagram.com/sourya_antiks"><i class="icon-instagram"></i></a> <b>Sourabh Kulkarni</b></h3>
@@ -138,6 +138,21 @@
                                 </div>
                                 <div class="col-md-4 col-sm-4 text-center" style="padding-bottom: 3%;">
                                     <div class="event-wrap animate-box">
+                                        <h3>सीमांत पूजन</h3>
+                                        <div class="event-col">
+                                            <i class="icon-clock"></i>
+                                            <span>6:00 PM</span>
+                                            <span>7:00 PM</span>
+                                        </div>
+                                        <div class="event-col">
+                                            <i class="icon-calendar"></i>
+                                            <span>Saturday 25</span>
+                                            <span>December, 2021</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-4 col-sm-4 text-center" style="padding-bottom: 3%;">
+                                    <div class="event-wrap animate-box">
                                         <h3>साखरपुडा</h3>
                                         <div class="event-col">
                                             <i class="icon-clock"></i>
@@ -151,48 +166,18 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-md-4 col-sm-4 text-center" style="padding-bottom: 3%;">
-                                    <div class="event-wrap animate-box">
-                                        <h3>Event3</h3>
-                                        <div class="event-col">
-                                            <i class="icon-clock"></i>
-                                            <span>7:00 PM</span>
-                                            <span>08:00 PM</span>
-                                        </div>
-                                        <div class="event-col">
-                                            <i class="icon-calendar"></i>
-                                            <span>Wednesday 13</span>
-                                            <span>January, 2020</span>
-                                        </div>
-                                    </div>
-                                </div>
                                 <div class="col-md-4 col-sm-4 text-center">
                                     <div class="event-wrap animate-box">
-                                        <h3>Event4</h3>
+                                        <h3>लग्न</h3>
                                         <div class="event-col">
                                             <i class="icon-clock"></i>
-                                            <span>04:15 PM</span>
-                                            <span>05:15 PM</span>
+                                            <span>12:25 AM</span>
+                                            <span>02:00 PM</span>
                                         </div>
                                         <div class="event-col">
                                             <i class="icon-calendar"></i>
-                                            <span>Tuesday 14</span>
-                                            <span>January, 2020</span>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-md-4 col-sm-4 text-center">
-                                    <div class="event-wrap animate-box">
-                                        <h3>Event5</h3>
-                                        <div class="event-col">
-                                            <i class="icon-clock"></i>
-                                            <span>09:15 AM</span>
-                                            <span>10:15 AM</span>
-                                        </div>
-                                        <div class="event-col">
-                                            <i class="icon-calendar"></i>
-                                            <span>Wednesday 15</span>
-                                            <span>January, 2020</span>
+                                            <span>Sunday 26</span>
+                                            <span>December, 2021</span>
                                         </div>
                                     </div>
                                 </div>
