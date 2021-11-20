@@ -90,7 +90,7 @@
                         </div>
                         <div class="desc-groom">
                             <h3><a href="https://www.instagram.com/sourya_antiks"><i class="icon-instagram"></i></a> <b>Sourabh Kulkarni</b></h3>
-                            <p>Hey folks. Add few words about her here....</p>
+                            <p>Imagining a life without her is something that is impossible. And I choose her in hundred lifetimes, in hundred worlds, in any version of reality. I'd find her and I'd choose her. My six word love story: 'I cant wait to marry her!'</p>
                             <p>I kind of have a thing for Her →</p>
                         </div>
                     </div>
@@ -101,7 +101,7 @@
                         </div>
                         <div class="desc-bride">
                             <h3><b>Siddhi Salvekar</b> <a href="https://www.instagram.com/salvekar_siddhi19"><i class="icon-instagram"></i></a></h3>
-                            <p>Hi. Add few words about him here...</p>
+                            <p>He always says that choosing to miss his flight to talk to me was the best decision he made in his life. And now we're all set to take our crazy, adventurous journey to the next level and formally become husband and wife! So here's toasting to the beginning of our 'happily ever after'...</p>
                             <p>← I kind of have a thing for Him</p>
                         </div>
                     </div>
@@ -141,8 +141,8 @@
                                         <h3>साखरपुडा</h3>
                                         <div class="event-col">
                                             <i class="icon-clock"></i>
-                                            <span>10:00 AM</span>
-                                            <span>11:00 AM</span>
+                                            <span>7:00 PM</span>
+                                            <span>8:00 PM</span>
                                         </div>
                                         <div class="event-col">
                                             <i class="icon-calendar"></i>
@@ -188,21 +188,6 @@
                                             <i class="icon-clock"></i>
                                             <span>09:15 AM</span>
                                             <span>10:15 AM</span>
-                                        </div>
-                                        <div class="event-col">
-                                            <i class="icon-calendar"></i>
-                                            <span>Wednesday 15</span>
-                                            <span>January, 2020</span>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-md-4 col-sm-4 text-center">
-                                    <div class="event-wrap animate-box">
-                                        <h3>Event6</h3>
-                                        <div class="event-col">
-                                            <i class="icon-clock"></i>
-                                            <span>05:00 PM</span>
-                                            <span>06:30 PM</span>
                                         </div>
                                         <div class="event-col">
                                             <i class="icon-calendar"></i>
