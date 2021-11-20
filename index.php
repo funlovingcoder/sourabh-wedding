@@ -171,7 +171,7 @@
                                         <h3>लग्न</h3>
                                         <div class="event-col">
                                             <i class="icon-clock"></i>
-                                            <span>12:25 AM</span>
+                                            <span>12:25 PM</span>
                                             <span>02:00 PM</span>
                                         </div>
                                         <div class="event-col">
