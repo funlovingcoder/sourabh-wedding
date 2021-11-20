@@ -109,7 +109,7 @@
             </div>
         </div>
 
-        <div id="fh5co-event" class="fh5co-bg" style="background-image:url(images/img_bg_4.jpg);">
+        <div id="fh5co-event" class="fh5co-bg" style="background-image:url(images/img_bg_4.JPG);">
             <div class="overlay"></div>
             <div class="container">
                 <div class="row">
