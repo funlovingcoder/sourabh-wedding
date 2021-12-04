@@ -123,21 +123,6 @@
                             <div class="col-md-10 col-md-offset-1">
                                 <div class="col-md-4 col-sm-4 text-center" style="padding-bottom: 3%;">
                                     <div class="event-wrap animate-box">
-                                        <h3>सोडमुंज</h3>
-                                        <div class="event-col">
-                                            <i class="icon-clock"></i>
-                                            <span>9:15 AM</span>
-                                            <span>10:15 AM</span>
-                                        </div>
-                                        <div class="event-col">
-                                            <i class="icon-calendar"></i>
-                                            <span>Sunday 5</span>
-                                            <span>December, 2021</span>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-md-4 col-sm-4 text-center" style="padding-bottom: 3%;">
-                                    <div class="event-wrap animate-box">
                                         <h3>साखरपुडा</h3>
                                         <div class="event-col">
                                             <i class="icon-clock"></i>
@@ -168,11 +153,10 @@
                                 </div>
                                 <div class="col-md-4 col-sm-4 text-center">
                                     <div class="event-wrap animate-box">
-                                        <h3>शुभ मुहूर्त</h3>
+                                        <h3>विवाह मुहूर्त</h3>
                                         <div class="event-col">
                                             <i class="icon-clock"></i>
-                                            <span>12:25 PM</span>
-                                            <span>02:00 PM</span>
+                                            <span>12:35 PM</span>
                                         </div>
                                         <div class="event-col">
                                             <i class="icon-calendar"></i>
@@ -296,7 +280,7 @@
                 <div class="row">
                     <div class="row animate-box">
                         <div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
-                            <h2>Family Members</h2>
+                            <h2>Family Members (वरपक्ष)</h2>
                             <span>Best Wishes</span>
                         </div>
                     </div>
@@ -304,6 +288,14 @@
                         <div class="col-md-12 animate-box">
                             <div class="wrap-testimony">
                                 <div class="owl-carousel-fullwidth">
+								    <div class="item">
+                                        <div class="testimony-slide active text-center">
+                                            <figure>
+                                                <img src="images/Sourabh_Aajji.JPG" alt="user">
+                                            </figure>
+                                            <span><a href="#" class="twitter"><b>Smt Nirmala Nagesh Kulkarni(Grandmother)</b></a></span>
+                                        </div>
+                                    </div>
                                     <div class="item">
                                         <div class="testimony-slide active text-center">
                                             <figure>
@@ -352,12 +344,12 @@
             </div>
         </div>
 
-        <!--div id="fh5co-testimonial">
+        <div id="fh5co-testimonial">
             <div class="container">
                 <div class="row">
                     <div class="row animate-box">
                         <div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
-                            <h2>Family Members(Bride)</h2>
+                            <h2>Family Members(वधूपक्ष)</h2>
                             <span>Best Wishes</span>
                         </div>
                     </div>
@@ -368,33 +360,41 @@
                                     <div class="item">
                                         <div class="testimony-slide active text-center">
                                             <figure>
-                                                <img src="images/hareesh.jpg" alt="user">
+                                                <img src="images/Siddhi_Ajoba.jpg" alt="user">
                                             </figure>
-                                            <span><a href="#" class="twitter">Nishikant (Father)</a></span>
+                                            <span><a href="#" class="twitter">Mr. Eknath Salvekar (Grandfather)</a></span>
+                                        </div>
+                                    </div>
+									<div class="item">
+                                        <div class="testimony-slide active text-center">
+                                            <figure>
+                                                <img src="images/Siddhi_Aajji.jpg" alt="user">
+                                            </figure>
+                                            <span><a href="#" class="twitter">Mrs. Eknath Salvekar (Grandmother)</a></span>
                                         </div>
                                     </div>
                                     <div class="item">
                                         <div class="testimony-slide active text-center">
                                             <figure>
-                                                <img src="images/grijesh.jpg" alt="user">
+                                                <img src="images/Siddhi_Baba.jpg" alt="user">
                                             </figure>
-                                            <span><a href="#" class="twitter">Grijesh Sharma(Mother)</a></span>
+                                            <span><a href="#" class="twitter">Mr. Nishikant Salvekar (Father)</a></span>
                                         </div>
                                     </div>
                                     <div class="item">
                                         <div class="testimony-slide active text-center">
                                             <figure>
-                                                <img src="images/abhishek.jpg" alt="user">
+                                                <img src="images/Siddhi_Aai.jpg" alt="user">
                                             </figure>
-                                            <span><a href="#" class="twitter">Abhishek Sharma(Brother)</a></span>
+                                            <span><a href="#" class="twitter">Mrs. Meenal Salvekar (Mother)</a></span>
                                         </div>
                                     </div>
-                                    <div class="item">
+									<div class="item">
                                         <div class="testimony-slide active text-center">
                                             <figure>
-                                                <img src="images/richa.jpg" alt="user">
+                                                <img src="images/Siddhi_Brother.jpg" alt="user">
                                             </figure>
-                                            <span><a href="#" class="twitter">Richa Sharma(Sister)</a></span>
+                                            <span><a href="#" class="twitter">Suyash Salvekar (Brother)</a></span>
                                         </div>
                                     </div>
                                 </div>
@@ -404,7 +404,7 @@
                 </div>
             </div>
         </div>
-    </div-->
+    </div>
 
 
 
