@@ -293,7 +293,7 @@
                                             <figure>
                                                 <img src="images/Sourabh_Aajji.JPG" alt="user">
                                             </figure>
-                                            <span><a href="#" class="twitter"><b>Smt Nirmala Nagesh Kulkarni(Grandmother)</b></a></span>
+                                            <span><a href="#" class="twitter">Smt Nirmala Nagesh Kulkarni(Grandmother)</a></span>
                                         </div>
                                     </div>
                                     <div class="item">
@@ -301,7 +301,7 @@
                                             <figure>
                                                 <img src="images/Baba.jpg" alt="user">
                                             </figure>
-                                            <span><a href="#" class="twitter"><b>Mr. Madhukar Kulkarni(Father)</b></a></span>
+                                            <span><a href="#" class="twitter">Mr. Madhukar Kulkarni(Father)</a></span>
                                         </div>
                                     </div>
                                     <div class="item">
@@ -309,7 +309,7 @@
                                             <figure>
                                                 <img src="images/Aai.jpg" alt="user">
                                             </figure>
-                                            <span><a href="#" class="twitter"><b>Mrs. Swati Kulkarni(Mother)</b></a></span>
+                                            <span><a href="#" class="twitter">Mrs. Swati Kulkarni(Mother)</a></span>
                                         </div>
                                     </div>
                                     <div class="item">
@@ -317,7 +317,7 @@
                                             <figure>
                                                 <img src="images/dada.jpg" alt="user">
                                             </figure>
-                                            <span><a href="#" class="twitter"><b>Mr. Kaustubh Kulkarni(Brother)</b></a></span>
+                                            <span><a href="#" class="twitter">Mr. Kaustubh Kulkarni(Brother)</a></span>
                                         </div>
                                     </div>
                                     <div class="item">
@@ -325,7 +325,7 @@
                                             <figure>
                                                 <img src="images/tai.jpg" alt="user">
                                             </figure>
-                                            <span><a href="#" class="twitter"><b>Mrs. Pradnya Kulkarni(Sister-in-law)</b></a></span>
+                                            <span><a href="#" class="twitter">Mrs. Pradnya Kulkarni(Sister-in-law)</a></span>
                                         </div>
                                     </div>
 									<div class="item">
@@ -333,7 +333,7 @@
                                             <figure>
                                                 <img src="images/kavya.jpg" alt="user">
                                             </figure>
-                                            <span><a href="#" class="twitter"><b>Ms. Kavya Kulkarni</b></a></span>
+                                            <span><a href="#" class="twitter">Ms. Kavya Kulkarni</a></span>
                                         </div>
                                     </div>
                                 </div>
@@ -349,7 +349,7 @@
                 <div class="row">
                     <div class="row animate-box">
                         <div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
-                            <h2>Family Members(वधूपक्ष)</h2>
+                            <h2>Family Members (वधूपक्ष)</h2>
                             <span>Best Wishes</span>
                         </div>
                     </div>
