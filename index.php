@@ -110,56 +110,52 @@
         </div>
 
         <div id="fh5co-event" class="fh5co-bg" style="background-image:url(images/img_bg_4.jpg);">
-            <div class="overlay"></div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-8 col-md-offset-2 text-center fh5co-heading animate-box">
-                        <h2>Wedding Events</h2>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="display-t">
-                        <div class="display-tc">
-                            <div class="col-md-10 col-md-offset-3">
-                                <div class="col-md-4 col-sm-4 text-center">
-                                    <div class="event-wrap animate-box">
-                                        <h3>विवाह मुहूर्त</h3>
-                                        <div class="event-col">
-                                            <i class="icon-clock"></i>
-                                            <span>12:35 PM</span>
-                                        </div>
-                                        <div class="event-col">
-                                            <i class="icon-calendar"></i>
-                                            <span>Sunday 26</span>
-                                            <span>December, 2021</span>
-                                        </div>
-                                    </div>
-                                </div>
-                            
-							    <div class="col-md-4 col-sm-4 text-center" style="padding-bottom: 3%;">
-                                    <div class="event-wrap animate-box">
-                                        <h3>विवाह स्थळ</h3>
-										<div class="event-col text-center">
-                                            <i class="icon-home"></i>
-                                            <span>Jay Palace,</span>
-                                            <span>Kolhapur</span>
-                                        </div>
-                                        <div class="event-col">
-                                            <span><a href="https://goo.gl/maps/LyqdGoL28WwcoG67A" target="_blank"><i class="material-icons" style="font-size: 22px;line-height: 1.5;color: white;">directions_car</i></a></span>
-				                            <span><a href="https://goo.gl/maps/LyqdGoL28WwcoG67A" target="_blank" style="color: rgba(255, 255, 255, 0.8);">Get directions</a></span>
-                                        </div>
-                                    </div>
-                                </div>
-						    </div>
-						</div>
-                    </div>
-                </div>
+   <div class="overlay"></div>
+   <div class="container">
+      <div class="row">
+         <div class="col-md-8 col-md-offset-2 text-center fh5co-heading animate-box">
+            <h2>Wedding Events</h2>
+         </div>
+      </div>
+      <div class="row">
+         <div class="display-t">
+            <div class="display-tc">
+               <div class="col-md-10 col-md-offset-3">
+                  <div class="col-md-4 col-sm-4 text-center">
+                     <div class="event-wrap animate-box">
+                        <h3>विवाह मुहूर्त</h3>
+                        <div class="event-col">
+                           <i class="icon-clock"></i>
+                           <span>12:35 PM</span>
+                        </div>
+                        <div class="event-col">
+                           <i class="icon-calendar"></i>
+                           <span>Sunday 26</span>
+                           <span>December, 2021</span>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="col-md-4 col-sm-4 text-center" style="padding-bottom: 3%;">
+                     <div class="event-wrap animate-box">
+                        <h3>विवाह स्थळ</h3>
+                        <div class="event-col text-center">
+                           <i class="icon-home"></i>
+                           <span>Jay Palace,</span>
+                           <span>Kolhapur</span>
+                        </div>
+                        <div class="event-col">
+                           <span><a href="https://goo.gl/maps/LyqdGoL28WwcoG67A" target="_blank"><i class="material-icons" style="font-size: 22px;line-height: 1.5;color: white;">directions_car</i></a></span>
+                           <span><a href="https://goo.gl/maps/LyqdGoL28WwcoG67A" target="_blank" style="color: rgba(255, 255, 255, 0.8);">Get directions</a></span>
+                        </div>
+                     </div>
+                  </div>
+               </div>
             </div>
-        </div>
-
-        
-
-        <div id="fh5co-testimonial">
+         </div>
+      </div>
+   </div>
+</div>
+         <div id="fh5co-testimonial">
             <div class="container">
                 <div class="row">
                     <div class="row animate-box">
