@@ -7,8 +7,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <meta property="og:image" content="http://www.sourabhwedssiddhi.in.net/images/img_bg_2.jpeg" />
-    <meta property="og:title" content="Sourabh Weds Siddhi" />
-    <meta property="og:description" content="We are getting married on 26th December, 2021" />
+    <meta property="og:title" content="♡ ♡ Sourabh Weds Siddhi ♡ ♡" />
+    <meta property="og:description" content="We are getting married on 26th December, 2021! 💕" />
 	
     <title>Sourabh Weds Siddhi</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -121,7 +121,7 @@
                     <div class="display-t">
                         <div class="display-tc">
                             <div class="col-md-10 col-md-offset-1">
-                                <div class="col-md-4 col-sm-4 text-center" style="padding-bottom: 3%;">
+                                <!--div class="col-md-4 col-sm-4 text-center" style="padding-bottom: 3%;">
                                     <div class="event-wrap animate-box">
                                         <h3>साखरपुडा</h3>
                                         <div class="event-col">
@@ -150,7 +150,7 @@
                                             <span>December, 2021</span>
                                         </div>
                                     </div>
-                                </div>
+                                </div-->
                                 <div class="col-md-4 col-sm-4 text-center">
                                     <div class="event-wrap animate-box">
                                         <h3>विवाह मुहूर्त</h3>
