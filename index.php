@@ -7,8 +7,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <meta property="og:image" content="http://www.sourabhwedssiddhi.in.net/images/img_bg_2.jpeg" />
-    <meta property="og:title" content="♡ ♡ Sourabh Weds Siddhi ♡ ♡" />
-    <meta property="og:description" content="We are getting married on 26th December, 2021! 💕" />
+    <meta property="og:title" content="Sourabh Weds Siddhi" />
+    <meta property="og:description" content="We are getting married on 26th December, 2021!" />
 	
     <title>Sourabh Weds Siddhi</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -79,8 +79,8 @@
                     <div class="col-md-8 col-md-offset-2 text-center fh5co-heading animate-box">
                         <h2>Hello!</h2>
                         <h3>December 26th, 2021 Kolhapur, Maharashtra</h3>
-                        <p>We invite you and your family to celebrate our wedding at</p>
-                        <p>Jay Palace, Kalamba Road, Kolhapur <a href="https://goo.gl/maps/LyqdGoL28WwcoG67A" target="_blank"><i class="material-icons" style="font-size: 18px;line-height: 1.5;color: #828282;">pin_drop</i></a></p>
+                        <p>We cordially invite you and your family to celebrate our wedding at</p>
+                        <p>Jay Palace, Kolhapur <a href="https://goo.gl/maps/LyqdGoL28WwcoG67A" target="_blank"><i class="material-icons" style="font-size: 18px;line-height: 1.5;color: #828282;">pin_drop</i></a></p>
                     </div>
                 </div>
                 <div class="couple-wrap animate-box">
@@ -120,7 +120,7 @@
                 <div class="row">
                     <div class="display-t">
                         <div class="display-tc">
-                            <div class="col-md-10 col-md-offset-1">
+                            <div class="col-md-10 col-md-offset-3">
                                 <div class="col-md-4 col-sm-4 text-center">
                                     <div class="event-wrap animate-box">
                                         <h3>विवाह मुहूर्त</h3>
@@ -135,145 +135,29 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>
-                        </div>
+                            
+							    <div class="col-md-4 col-sm-4 text-center" style="padding-bottom: 3%;">
+                                    <div class="event-wrap animate-box">
+                                        <h3>विवाह स्थळ</h3>
+										<div class="event-col text-center">
+                                            <i class="icon-home"></i>
+                                            <span>Jay Palace,</span>
+                                            <span>Kolhapur</span>
+                                        </div>
+                                        <div class="event-col">
+                                            <span><a href="https://goo.gl/maps/LyqdGoL28WwcoG67A" target="_blank"><i class="material-icons" style="font-size: 22px;line-height: 1.5;color: white;">directions_car</i></a></span>
+				                            <span><a href="https://goo.gl/maps/LyqdGoL28WwcoG67A" target="_blank" style="color: rgba(255, 255, 255, 0.8);">Get directions</a></span>
+                                        </div>
+                                    </div>
+                                </div>
+						    </div>
+						</div>
                     </div>
                 </div>
             </div>
         </div>
 
-        <!--div id="fh5co-event" class="fh5co-bg" style="background-image:url(images/img_bg_4.jpg);">
-            <div class="overlay"></div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-8 col-md-offset-2 text-center fh5co-heading animate-box">
-                        <h2>Wedding Events(Bride Side)</h2>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="display-t">
-                        <div class="display-tc">
-                            <div class="col-md-10 col-md-offset-1">
-                                <div class="col-md-4 col-sm-4 text-center" style="padding-bottom: 3%;">
-                                    <div class="event-wrap animate-box">
-                                        <h3>Vinayak Sthapna</h3>
-                                        <div class="event-col">
-                                            <i class="icon-clock"></i>
-                                            <span>02:00 PM</span>
-                                        </div>
-                                        <div class="event-col">
-                                            <i class="icon-calendar"></i>
-                                            <span>Friday 10</span>
-                                            <span>January, 2020</span>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-md-4 col-sm-4 text-center" style="padding-bottom: 3%;">
-                                    <div class="event-wrap animate-box">
-                                        <h3>Haldi Mehndi</h3>
-                                        <div class="event-col">
-                                            <i class="icon-clock"></i>
-                                            <span>12:30 PM</span>
-                                        </div>
-                                        <div class="event-col">
-                                            <i class="icon-calendar"></i>
-                                            <span>Monday 13</span>
-                                            <span>January, 2020</span>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-md-4 col-sm-4 text-center" style="padding-bottom: 3%;">
-                                    <div class="event-wrap animate-box">
-                                        <h3>Kalash Poojan</h3>
-                                        <div class="event-col">
-                                            <i class="icon-clock"></i>
-                                            <span>10:00 AM</span>
-                                        </div>
-                                        <div class="event-col">
-                                            <i class="icon-calendar"></i>
-                                            <span>Tuesday 14</span>
-                                            <span>January, 2020</span>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-md-4 col-sm-4 text-center" style="padding-bottom: 3%;">
-                                    <div class="event-wrap animate-box">
-                                        <h3>Bhaat</h3>
-                                        <div class="event-col">
-                                            <i class="icon-clock"></i>
-                                            <span>02:00 PM</span>
-                                        </div>
-                                        <div class="event-col">
-                                            <i class="icon-calendar"></i>
-                                            <span>Tuesday 14</span>
-                                            <span>January, 2020</span>
-                                        </div>
-                                    </div>
-                                </div>
-								<!--div class="col-md-4 col-sm-4 text-center" style="padding-bottom: 3%;">
-                                    <div class="event-wrap animate-box">
-                                        <h3>साखरपुडा</h3>
-                                        <div class="event-col">
-                                            <i class="icon-clock"></i>
-                                            <span>6:00 PM</span>
-                                            <span>7:00 PM</span>
-                                        </div>
-                                        <div class="event-col">
-                                            <i class="icon-calendar"></i>
-                                            <span>Saturday 25</span>
-                                            <span>December, 2021</span>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-md-4 col-sm-4 text-center" style="padding-bottom: 3%;">
-                                    <div class="event-wrap animate-box">
-                                        <h3>सीमांत पूजन</h3>
-                                        <div class="event-col">
-                                            <i class="icon-clock"></i>
-                                            <span>7:00 PM</span>
-                                            <span>8:00 PM</span>
-                                        </div>
-                                        <div class="event-col">
-                                            <i class="icon-calendar"></i>
-                                            <span>Saturday 25</span>
-                                            <span>December, 2021</span>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-md-4 col-sm-4 text-center">
-                                    <div class="event-wrap animate-box">
-                                        <h3>Ladies Sangeet</h3>
-                                        <div class="event-col">
-                                            <i class="icon-clock"></i>
-                                            <span>06:00 PM</span>
-                                        </div>
-                                        <div class="event-col">
-                                            <i class="icon-calendar"></i>
-                                            <span>Tuesday 14</span>
-                                            <span>January, 2020</span>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-md-4 col-sm-4 text-center">
-                                    <div class="event-wrap animate-box">
-                                        <h3>Baraat Swagat</h3>
-                                        <div class="event-col">
-                                            <i class="icon-clock"></i>
-                                            <span>06:30 PM</span>
-                                        </div>
-                                        <div class="event-col">
-                                            <i class="icon-calendar"></i>
-                                            <span>Wednesday 15</span>
-                                            <span>January, 2020</span>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div-->
+        
 
         <div id="fh5co-testimonial">
             <div class="container">
