@@ -288,6 +288,9 @@
                 </div>
             </div>
         </div>
+		<div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
+		<i class="material-icons" style="font-size: 17px;color: red;">notifications_active</i>LOVE IS IN THE AIR AND SO ARE THE GERMS, SANITIZE YOUR HANDS AND WEAR FACEMASK AT THE WEDDING.
+		<i class="material-icons" style="font-size: 17px;color: red;">notifications_active</i></div>
     </div>
 
 
