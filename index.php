@@ -121,36 +121,6 @@
                     <div class="display-t">
                         <div class="display-tc">
                             <div class="col-md-10 col-md-offset-1">
-                                <!--div class="col-md-4 col-sm-4 text-center" style="padding-bottom: 3%;">
-                                    <div class="event-wrap animate-box">
-                                        <h3>साखरपुडा</h3>
-                                        <div class="event-col">
-                                            <i class="icon-clock"></i>
-                                            <span>6:00 PM</span>
-                                            <span>7:00 PM</span>
-                                        </div>
-                                        <div class="event-col">
-                                            <i class="icon-calendar"></i>
-                                            <span>Saturday 25</span>
-                                            <span>December, 2021</span>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-md-4 col-sm-4 text-center" style="padding-bottom: 3%;">
-                                    <div class="event-wrap animate-box">
-                                        <h3>सीमांत पूजन</h3>
-                                        <div class="event-col">
-                                            <i class="icon-clock"></i>
-                                            <span>7:00 PM</span>
-                                            <span>8:00 PM</span>
-                                        </div>
-                                        <div class="event-col">
-                                            <i class="icon-calendar"></i>
-                                            <span>Saturday 25</span>
-                                            <span>December, 2021</span>
-                                        </div>
-                                    </div>
-                                </div-->
                                 <div class="col-md-4 col-sm-4 text-center">
                                     <div class="event-wrap animate-box">
                                         <h3>विवाह मुहूर्त</h3>
@@ -237,6 +207,36 @@
                                             <i class="icon-calendar"></i>
                                             <span>Tuesday 14</span>
                                             <span>January, 2020</span>
+                                        </div>
+                                    </div>
+                                </div>
+								<!--div class="col-md-4 col-sm-4 text-center" style="padding-bottom: 3%;">
+                                    <div class="event-wrap animate-box">
+                                        <h3>साखरपुडा</h3>
+                                        <div class="event-col">
+                                            <i class="icon-clock"></i>
+                                            <span>6:00 PM</span>
+                                            <span>7:00 PM</span>
+                                        </div>
+                                        <div class="event-col">
+                                            <i class="icon-calendar"></i>
+                                            <span>Saturday 25</span>
+                                            <span>December, 2021</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-4 col-sm-4 text-center" style="padding-bottom: 3%;">
+                                    <div class="event-wrap animate-box">
+                                        <h3>सीमांत पूजन</h3>
+                                        <div class="event-col">
+                                            <i class="icon-clock"></i>
+                                            <span>7:00 PM</span>
+                                            <span>8:00 PM</span>
+                                        </div>
+                                        <div class="event-col">
+                                            <i class="icon-calendar"></i>
+                                            <span>Saturday 25</span>
+                                            <span>December, 2021</span>
                                         </div>
                                     </div>
                                 </div>
