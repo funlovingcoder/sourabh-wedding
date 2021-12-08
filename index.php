@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-    <meta property="og:image" itemprop="image" content="/images/img_bg_11.jpeg" />
+    <meta property="og:image" itemprop="image" content="http://www.sourabhwedssiddhi.in.net/images/img_bg_11.png" />
 	<meta property="og:image:width" content="400" />
     <meta property="og:image:height" content="300" />
     <meta property="og:title" content="Sourabh Weds Siddhi" />
@@ -288,7 +288,7 @@
             </div>
         </div>
 		<div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
-		<i class="material-icons" style="font-size: 17px;color: red;">notifications_active</i> LOVE IS IN THE AIR AND SO ARE THE GERMS, SANITIZE YOUR HANDS AND WEAR FACEMASK AT THE WEDDING. <i class="material-icons" style="font-size: 17px;color: red;">notifications_active</i></div>
+		<i class="material-icons" style="font-size: 17px;color: red;">notifications_active</i> LOVE IS IN THE AIR AND SO ARE THE GERMS! <i class="material-icons" style="font-size: 17px;color: red;">notifications_active</i><br/><i class="material-icons" style="font-size: 17px;color: red;">notifications_active</i> SANITIZE YOUR HANDS AND WEAR A FACEMASK AT THE WEDDING. <i class="material-icons" style="font-size: 17px;color: red;">notifications_active</i></div>
     </div>
 
 
