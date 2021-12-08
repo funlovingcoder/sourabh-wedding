@@ -163,7 +163,8 @@
                 <div class="row">
                     <div class="row animate-box">
                         <div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
-                            <h2>Family Members (वरपक्ष)</h2>
+                            <h2>Family Members</h2>
+							<h2 style="font-size: 38px;">(वरपक्ष)</h2>
                             <span>Best Wishes</span>
                         </div>
                     </div>
@@ -232,7 +233,8 @@
                 <div class="row">
                     <div class="row animate-box">
                         <div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
-                            <h2>Family Members (वधूपक्ष)</h2>
+                            <h2>Family Members</h2>
+							<h2 style="font-size: 38px;">(वधूपक्ष)</h2>
                             <span>Best Wishes</span>
                         </div>
                     </div>
