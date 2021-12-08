@@ -6,8 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-    <meta property="og:image" content="/images/img_bg_2.jpeg" />
-	<meta property="og:image" content="http://www.latiksha.online/images/img_bg_2.jpg" />
+    <meta property="og:image" itemprop="image" content="/images/img_bg_11.jpeg" />
 	<meta property="og:image:width" content="400" />
     <meta property="og:image:height" content="300" />
     <meta property="og:title" content="Sourabh Weds Siddhi" />
