@@ -6,8 +6,12 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-    <meta property="og:image" content="http://www.sourabhwedssiddhi.in.net/images/img_bg_2.jpeg" />
+    <meta property="og:image" content="/images/img_bg_2.jpeg" />
+	<meta property="og:image" content="http://www.latiksha.online/images/img_bg_2.jpg" />
+	<meta property="og:image:width" content="400" />
+    <meta property="og:image:height" content="300" />
     <meta property="og:title" content="Sourabh Weds Siddhi" />
+	<meta property="og:url" content="http://www.sourabhwedssiddhi.in.net" />
     <meta property="og:description" content="We are getting married on 26th December, 2021!" />
 	
     <title>Sourabh Weds Siddhi</title>
@@ -114,7 +118,7 @@
    <div class="container">
       <div class="row">
          <div class="col-md-8 col-md-offset-2 text-center fh5co-heading animate-box">
-            <h2>Wedding Events</h2>
+            <h2>Wedding Details</h2>
          </div>
       </div>
       <div class="row">
@@ -224,7 +228,7 @@
             </div>
         </div>
 
-        <div id="fh5co-testimonial1">
+        <div id="fh5co-testimonial">
             <div class="container">
                 <div class="row">
                     <div class="row animate-box">
