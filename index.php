@@ -9,7 +9,7 @@
     <meta property="og:image" itemprop="image" content="http://www.sourabhwedssiddhi.in.net/images/img_bg_11.png" />
     <meta property="og:title" content="Sourabh Weds Siddhi" />
 	<meta property="og:url" content="http://www.sourabhwedssiddhi.in.net" />
-    <meta property="og:description" content="We are getting married on 26th December, 2021! Please consider this as personal invitation and grace the occasion with your presence and blessings:)" />
+    <meta property="og:description" content="We are getting married on 26th December, 2021! Please consider this as personal invitation:)" />
 	
     <title>Sourabh Weds Siddhi</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
